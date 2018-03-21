@@ -3,31 +3,12 @@
 <Organisations>
     <Organisation>
         <OrganisationName>BP GROUP</OrganisationName>
-        <vCoreTotalAssigned>6</vCoreTotalAssigned>
-        <vCoreInUse>4</vCoreInUse>
-        <vCoreTotalUsage>2</vCoreTotalUsage>
         <Environments>
             <Environment>
                 <EnvironmentName>Production</EnvironmentName>
-                <vCoreAssigned>4</vCoreAssigned>
-                <vCoreUsage>1</vCoreUsage>
-                <EnvironmentName>Sandbox</EnvironmentName>
-                <vCoreAssigned>2</vCoreAssigned>
-                <vCoreUsage>1</vCoreUsage>
-            </Environment>
-        </Environments>
-        <OrganisationName>BP MEPOC</OrganisationName>
-        <vCoreTotalAssigned>4</vCoreTotalAssigned>
-        <vCoreInUse>4</vCoreInUse>
-        <vCoreTotalUsage>2.5</vCoreTotalUsage>
-        <Environments>
-            <Environment>
-                <EnvironmentName>Production</EnvironmentName>
-                <vCoreAssigned>3</vCoreAssigned>
-                <vCoreUsage>2</vCoreUsage>
-                <EnvironmentName>Design</EnvironmentName>
-                <vCoreAssigned>1</vCoreAssigned>
-                <vCoreUsage>0.5</vCoreUsage>
+				<vCoreTotalAssigned>6</vCoreTotalAssigned>
+				<vCoreInUse>4</vCoreInUse>
+				<vCoreTotalUsage>2</vCoreTotalUsage>
             </Environment>
         </Environments>
     </Organisation>
