@@ -2,39 +2,15 @@
     "Organisations": [
         {
             "OrganisationName": "BP GROUP",
-            "vCoreTotalAssigned": 4,
-            "vCoreInUse": 3.8,
-            "vCoreTotalUsage": 2.5,
             "Environments": [
                 {
                     "EnvironmentName": "Production",
-                    "vCoreAssigned": 2,
-                    "vCoreUsage": 1
-                },
-                {
-                    "EnvironmentName": "Sandbox",
-                    "vCoreAssigned": 1,
-                    "vCoreUsage": 0.5
+                    "vCoreTotalAssigned": 4,
+					"vCoreInUse": 3.8,
+					"vCoreTotalUsage": 2.5,
                 }
             ]
-        },
-        {
-            "OrganisationName": "BP MEPOC",
-            "vCoreTotalAssigned": 4,
-            "vCoreInUse": 3.8,
-            "vCoreTotalUsage": 2.5,
-            "Environments": [
-                {
-                    "EnvironmentName": "Production",
-                    "vCoreAssigned": 2,
-                    "vCoreUsage": 1
-                },
-                {
-                    "EnvironmentName": "Design",
-                    "vCoreAssigned": 2,
-                    "vCoreUsage": 1.5
-                }
-            ]
+         
         }
     ]
 }
